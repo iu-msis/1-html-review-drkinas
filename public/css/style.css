@@ -1,0 +1,52 @@
+main{
+    border-radius: 5px;
+    }
+    
+    h1{
+      font-size: 300%;
+      margin: 0px;
+      padding-bottom:10px;
+    }
+    
+    h3{
+    background-color: navy;
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+    }
+    
+    header{
+    background-color:black;
+    color: white;
+    padding-bottom: 10px;
+    }
+    
+    footer{
+    background-color:black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    nav{
+    background-color: lightgray;
+    color: darkgrey;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    }
+    
+    .events{
+      background-color: #eeeeee;
+      border-color: gray;
+      border-width: 2px;
+      border-style: solid;
+      border-radius: 10px;
+      padding: 7px;
+      margin: 5px;
+      list-style-type: none;
+    }
+    
+    a{
+      text-decoration: none;
+    }
